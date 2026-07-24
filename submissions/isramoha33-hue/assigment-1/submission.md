@@ -1,9 +1,8 @@
 # Assignment 1 — Git Basics
 
 - **Name:** nasib mohamed ahmed
-- **GitHub username:** isramoha33
-- **Repository URL:** ehttps://github.com/isramoha33-hue/first-repository.git
-
+- **GitHub username:** isramoha33-hue
+- **Repository URL:** https://github.com/isramoha33-hue/first-repository.git
 ## Confirmation
 
 - [x] At least 100 commits are visible on GitHub
