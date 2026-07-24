@@ -1,6 +1,9 @@
+# Submission README
 
+This is the submission folder for the Git and GitHub bootcamp assignment.
 
-# Hey Learners 👋
-_________________________________________________________________
+- Student: Khadar Mojama
+- Assignment: 1
 
-My Name is Hamse Mohamoud Ismail , This is my folder Submission on Git and GitHub Bootcamp please don't touch it.
+Thank you for reviewing this work.
+
