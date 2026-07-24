@@ -3,7 +3,9 @@
 
 **Name:** Maryan Ahmed Warsame  
 **GitHub username:** maria-Kayse  
-**Repository URL:** https://github.com/maria-Kayse/git-github-bootcamp.git
+**Repository URL:** https://github.com/maria-Kayse/git-practice.git
+
+
 
 ## Introduction
 In this assignment, I learned the basics of Git and GitHub. I practiced using Git commands to manage project files and track changes.
