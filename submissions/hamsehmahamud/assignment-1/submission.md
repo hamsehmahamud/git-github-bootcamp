@@ -2,7 +2,7 @@
 
 - **Name:** Hamse Mohamoud Ismail
 - **GitHub username:** hamsehmahamud
-- **Repository URL:** https://github.com/hamsehmahamud/gittesthttps://github.com/your-username/git-github-practice
+- **Repository URL:** https://github.com/hamsehmahamud/gittest
 
 ## Confirmation
 
